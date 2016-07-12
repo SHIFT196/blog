@@ -1,0 +1,66 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	font-family: 'Underdog', Verdana, Tahoma, serif;
+}
+
+header{
+	position: relative;
+	left: 50px;
+	height: 100px;
+	text-align: center;
+	color: ##000000;
+	margin: 0 auto;
+	width: 500px;
+}
+
+h1{
+
+}
+
+header p{
+
+}
+
+nav{
+	position: fixed;
+	background: #ccc;
+	padding: 10px;
+}
+
+nav a{
+	text-decoration: none;
+	cursor: pointer;
+}
+
+main{
+
+}
+
+h2{
+
+}
+
+article{
+
+}
+
+article h3{
+
+}
+
+article p{
+
+}
+
+aside{
+
+}
+
+footer{
+
+}
